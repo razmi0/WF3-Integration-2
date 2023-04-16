@@ -2,7 +2,6 @@
     * Import all the css files
     */
 
-@import "node_modules/bootstrap/dist/css/bootstrap.min.css";
 @import "src/layout/normalize.css";
 @import "src/layout/font.css";
 @import "src/HeaderComponent/header.css";
@@ -10,4 +9,4 @@
 @import "src/FooterComponent/footer.css";
 @import "src/ElementsComponents/elements.css";
 @import "src/layout/media-queries.css";
-
+@import "node_modules/bootstrap/dist/css/bootstrap.min.css";

@@ -24,45 +24,50 @@ class GridComponent {
         <div class="container-grid">
         <img
           class="img1 img-format"
-          alt=""
-          src="/assets/pictures/strawberrypot.jpeg"
+          alt="strawberrypot"
+          src="/assets/pictures/webp/strawberrypot.webp.webp"
         />
 
         <img
           class="img2 img-format"
-          alt=""
-          src="/assets/pictures/salade_variété.jpeg"
+          alt="salade_variété"
+          src="/assets/pictures/webp/salade_variete.webp.webp"
         />
         <div class="subgrid">
           <img
             class="img3 img-format"
-            alt=""
-            src="/assets/pictures/variété_plats.jpeg"
+            alt="variété_plats"
+            loading="lazy"
+            src="/assets/pictures/webp/variete_plats.webp.webp"
           />
 
           <img
             class="img4 img-format offset-position-82"
-            alt=""
-            src="/assets/pictures/salade_poisson.jpeg"
+            alt="salade_poisson"
+            loading="lazy"
+            src="/assets/pictures/webp/salade_poisson.webp.webp"
           />
 
           <img
             class="img5 img-format offset-position-100"
-            alt=""
-            src="/assets/pictures/salade_oeuf_plat.jpeg"
+            alt="salade_oeuf_plat"
+            loading="lazy"
+            src="/assets/pictures/webp/salade_oeuf_plat.webp.webp"
           />
         </div>
 
         <img
           class="img6 img-format"
-          alt=""
-          src="/assets/pictures/jus_fraise.jpeg"
+          alt="jus_fraise"
+          loading="lazy"
+          src="/assets/pictures/webp/jus_fraise.webp.webp"
         />
 
         <img
           class="img7 img-format offset-position-100"
-          alt=""
-          src="/assets/pictures/desser_lait_fruit.jpeg"
+          alt="desser_lait_fruit"
+          loading="lazy"
+          src="/assets/pictures/webp/desser_lait_fruit.webp.webp"
         />
       </div>
         `;
